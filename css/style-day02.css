@@ -1,0 +1,70 @@
+body{
+    background-color: #FDFFF0;
+}
+
+.bg{
+    width:800px;
+    height: 600px;
+    background-color: #E8ECD6;
+    margin-top: 80px;
+    margin-left: 80px;
+    border-radius: 30px;
+    padding: 40px 40px;
+}
+
+.email{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#A1DD70;
+    width: 40%;
+    height: 40px;
+    padding-left:20px;
+}
+
+.e-add{
+    color:#A23131;
+    font-family:  'Sofia Sans Condensed', sans-serif;
+}
+
+.check-terms{
+    color:#a23131;
+    font-family:  'Sofia Sans Condensed', sans-serif;
+    font-weight: 500;
+}
+
+.password{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#A1DD70;
+    width: 60%;
+    height: 40px;
+    padding-left:20px;
+}
+
+.confirm-password{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#A1DD70;
+    width: 22%;
+    height: 40px;
+    padding-left:20px;
+}
+
+.expiry{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    /* color:#A1DD70; */
+    width: 21%;
+    height: 40px;
+    padding-left:20px;
+    padding-right: 10px;
+}
+
+.btn{
+    width: 200px;
+}
+
+.home{
+    color: #303030;
+    margin-left: 100px;
+}

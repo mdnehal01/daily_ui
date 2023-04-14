@@ -1,0 +1,235 @@
+body {
+    background-color: #D6E4E5;
+    font-family: "ubuntu";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Carter One";
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #EB6440;
+    text-align: right;
+}
+
+h2{ 
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+p{
+    color: #8f8f8f;
+    padding: 0px 40px 0px 40px;
+}
+
+
+#title{
+    background-color: #D6E4E5;
+}
+
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+
+/* navbar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Righteous";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color:#EB6440;
+}
+
+.navbar-brand:hover{
+    color: #497174;
+}
+
+.nav-item{
+    padding: 0px 18px;
+}
+
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #EB6440;
+}
+
+.nav-link:hover{
+    color: #497174;
+}
+
+
+
+
+/* media qwery Phone*/
+
+@media (max-width:1000px) {
+
+    .title-button{
+        background-color: #D6E4E5;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        color: #EFF5F5;
+        width: 180px;}
+
+
+    #title{
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    .title-button:hover{
+        background-color: #D6E4E5;
+        color:#EB6440;
+    }
+
+    .card-body{
+        width: 100%;
+        height: 100%; 
+        background-color: #c8dedf;
+        padding: 50px 30px;
+    }
+
+    .card-body-about{
+    width: 1050px;
+        height: 100%; 
+        background-color: #D6E4E5;
+        padding: 50px 30px;
+    }
+    
+}
+
+/* Media qwery PC*/
+@media (min-width:1000px) {
+
+
+
+    .title-button{
+        background-color: #D6E4E5;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        color: #EFF5F5;
+        width: 180px;
+        margin-left: 405px;
+    }
+    
+    .title-button:hover{
+        background-color: #D6E4E5;
+        color:#EB6440;
+    }
+
+    h1{
+        margin-left: 425px;
+    }
+
+    .card-body{
+        width: 1050px;
+        height: 100%; 
+        background-color: #c8dedf;
+        padding: 50px 30px;
+    }
+    
+    .card-body-about{
+        width: 1000px;
+        height: 100%; 
+        background-color: #D6E4E5;
+        padding: 50px 30px;
+        text-align: left;
+        margin-left: 210px;
+    }
+   
+}
+
+
+/* @media (max-width:1028px) {
+    
+    #cta{
+        padding:5% 10%;
+    }
+} */
+
+.action-button{
+    margin: 0% 1%;
+    border-radius: 7px;
+}
+
+/* footer */
+
+#footer{
+    text-align: center;
+    background-color: white;
+    padding: 100px 0px 10px;
+}
+
+.footer-icon-margin{ 
+    font-size: 25px;
+    margin: 10px;
+    color: #497174;
+}
+
+.footer-icon-margin:hover{
+  color:#D6E4E5;
+}
+
+
+
+
+
+
+
+
+
+/* About us */
+#about-us{
+    padding:100px 30px;
+    text-align: center;
+    background-color: #497174;
+}
+
+
+.about-button{
+    background-color: #EB6440;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #EFF5F5;
+    width: 180px;
+}
+
+.about-button:hover{
+    background-color: #D6E4E5;
+    color:#497174 ;
+}
+
+
+
+
+/* Card body */
+
+
+.card-images{
+    width: 250px;
+    height: 150px;
+    border:solid 1px #EB6440;
+    border-radius: 20px;
+}
+
+.label{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 25px;
+    color: #497174;
+}

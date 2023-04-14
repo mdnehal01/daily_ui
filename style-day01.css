@@ -1,0 +1,143 @@
+body{
+    font-family: font-family: 'Sofia Sans Condensed', sans-serif;
+}
+
+
+
+/* Left div */
+.left-div{
+    width: 40%;
+    height: 679px;
+    background-color: #DBDDE0;
+    float: left;
+    padding: 200px 150px;
+}
+
+.h61{
+    font-family: 'Carter One-bold', cursive;
+    color:#9a9abc;
+}
+
+.left-bottom-div{
+    background-color: #DBDDE0;
+    width: 40%;
+    height: 71px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+
+.list{
+    font-size: 20px;
+    color: #82829e;
+}
+/*  */
+
+
+.h1-left-div{
+    font-family: 'Lobster', cursive;
+    color: #888C9C;
+}
+
+.h1-right-div{
+    font-family: 'Righteous', cursive;
+    font-weight:900;
+    color: #585871;
+}
+
+
+/*  */
+.right-up-div{
+    width: 60%;
+    height: 679px;
+    background-color: #F0F0F2;
+    float: right;
+    padding-top: 71px;
+    padding-left: 10%;
+    padding-right: 100px;
+}
+/* form email */
+.email{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#585871;
+    width: 80%;
+    height: 40px;
+}
+
+.e-add{
+    color:#585871;
+    font-family:  'Sofia Sans Condensed', sans-serif;
+}
+
+/* form password */
+.password{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#585871;
+    width: 60%;
+    height: 40px;
+}
+
+.confirm-password{
+    border: solid 2px #ECECEF;
+    border-radius: 6px;
+    color:#585871;
+    width: 60%;
+    height: 40px;
+}
+
+/* checkbox */
+/* input[type="checkbox"]{
+    appearance: none;
+    height: 20px;
+    width: 20px;
+    background-color: #FFFEFE;
+    border:solid 2px #ECECEF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="checkbox"]:hover{
+    appearance: none;
+    height: 20px;
+    width: 20px;
+    background-color: #585871;
+    border:solid 2px #ECECEF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="checkbox"]::after{
+    content: ;
+} */
+
+.check-terms{
+    color:#82829e;
+    font-family:  'Sofia Sans Condensed', sans-serif;
+    font-weight: 500;
+}
+
+
+/* Sign Up */
+.right-bottom-div{
+    width: 60%;
+    height: 71px;
+    background-color: #FFFEFE;
+    float: right;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+
+.btns{
+    width: 100px;
+    height: 35px;
+    border-color:#9a9abc;
+    background-color: #898D9E;
+    border-radius: 20px;
+    float: right;
+    color: #FFFEFE;
+}
+
