@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 3.5rem;
     line-height: 1.5;
-    color: #EB6440;
+    color: #C85C8E;
     text-align: right;
 }
 
@@ -24,13 +24,13 @@ h3{
 }
 
 p{
-    color: #8f8f8f;
+    color: #1A120B;
     padding: 0px 40px 0px 40px;
 }
 
 
 #title{
-    background-color: #EFF5F5;
+    background-color: #E8DED7;
 }
 
 
@@ -49,11 +49,11 @@ p{
     font-family: "Righteous";
     font-size: 2.5rem;
     font-weight: bold;
-    color:#EB6440;
+    color:#C85C8E;
 }
 
 .navbar-brand:hover{
-    color: #497174;
+    color: #141E61;
 }
 
 .nav-item{
@@ -63,11 +63,11 @@ p{
 .nav-link{
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    color: #EB6440;
+    color: #C85C8E;
 }
 
 .nav-link:hover{
-    color: #497174;
+    color: #141E61;
 }
 
 .dropdown-menu{
@@ -75,7 +75,7 @@ p{
 }
 
 .dropdown-item{
-    background-color: #D6E4E5;
+    background-color: #787A91;
     width: 100%;
 }
 
@@ -88,7 +88,7 @@ p{
 .side-item{
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    color: #EB6440;
+    color: #C85C8E;
 }
 
 
@@ -103,10 +103,10 @@ p{
     }
 
     .title-button{
-        background-color: #497174;
+        background-color: #141E61;
         font-family: 'Poppins', sans-serif;
         font-weight: 600;
-        color: #EFF5F5;
+        color: #EEEEEE;
         width: 180px;}
 
 
@@ -127,23 +127,23 @@ p{
     .card-body{
         width: 100%;
         height: 100%; 
-        background-color: #D6E4E5;
+        background-color: #787A91;
     }
 }
 
 /* Media qwery PC*/
 @media (min-width:1000px) {
     .title-button{
-        background-color: #497174;
+        background-color: #141E61;
         font-family: 'Poppins', sans-serif;
         font-weight: 600;
-        color: #EFF5F5;
+        color: #EEEEEE;
         width: 180px;
         margin-left: 335px;}
     
     .title-button:hover{
-        background-color: #D6E4E5;
-        color:#EB6440;
+        background-color: #787A91;
+        color:#C85C8E;
     }
 
     .title-img {
@@ -154,36 +154,15 @@ p{
     }
 
     .card-body{
-        width: 100%;
+        margin-left:200px;
+        margin-right: 200px;
+        width:fit-content;
         height: 100%; 
-        background-color: #D6E4E5;
+        background-color: #787A91;
     }
     
 }
 
-/* call to action */
-
-#cta{
-    background-color:#003f97;
-    padding: 5% 10% 10%;
-    text-align: center;
-}
-
-.cta-h3{
-    font-family: "montserrat";
-    font-size: 3rem;
-    line-height: 1.5;
-    color: #fff;
-    text-align: center;
-    padding-bottom: 4%;
-}
-
-/* @media (max-width:1028px) {
-    
-    #cta{
-        padding:5% 10%;
-    }
-} */
 
 .action-button{
     margin: 0% 1%;
@@ -194,38 +173,38 @@ p{
 
 #footer{
     text-align: center;
-    background-color: white;
+    background-color: #E8DED7;
     padding: 100px 0px 10px;
 }
 
 .footer-icon-margin{ 
     font-size: 25px;
     margin: 10px;
-    color: #497174;
+    color: #141E61;
 }
 
 .footer-icon-margin:hover{
-  color:#D6E4E5;
+  color:#787A91;
 }
 
 
 /* Features */
 #features{
     padding: 7% 15%;
-    background-color: #D6E4E5;
+    background-color: #787A91;
     position: relative;
 }
 
 .features-heading{
     text-align: center;
-    color: #497174;
+    color: #141E61;
 }
 
 .text{
     font-family: 'Sofia Sans Condensed', sans-serif;
     font-size: 25px;
     font-weight:400;
-    color: #497174;
+    color: #141E61;
 }
 
 .icon-section{
@@ -234,7 +213,7 @@ p{
 
 .icons
 {
-    color:#497174;
+    color:#141E61;
     font-size: 25px; 
 }
 
@@ -243,47 +222,28 @@ p{
 }
 
 
-/* Testimonials */
-
-#testimonials{
-    background-color: rgb(69, 171, 225);
-    text-align: center;
-    color:#ffffff;
-}
-
-
-
-.testimonial-image{
-    border-radius: 28000px;
-    width: 10%;
-    margin: 20px;
-}
-
-#press{
-    text-align: center;
-    background-color: rgb(69, 171, 225);
-    padding-bottom: 3% ;
-}
 
 
 
 /* About us */
 #about-us{
-    padding:100px 30px;
+    padding:50px 70px;
     text-align: center;
-    background-color: #497174;
+    background-color: #141E61;
 }
 
 
 .about-button{
-    background-color: #EB6440;
+    background-color: #C85C8E;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    color: #EFF5F5;
+    color: #EEEEEE;
     width: 180px;
 }
 
 .about-button:hover{
-    background-color: #D6E4E5;
-    color:#497174 ;
+    background-color: #787A91;
+    color:#141E61 ;
 }
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
