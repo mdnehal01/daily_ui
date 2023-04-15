@@ -1,6 +1,5 @@
 body {
-    background-color: #D6E4E5;
-    font-family: "ubuntu";
+    background-color: #E8DFD6;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -10,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 3.5rem;
     line-height: 1.5;
-    color: #EB6440;
+    color: #BF5A92;
     text-align: right;
 }
 
@@ -30,7 +29,7 @@ p{
 
 
 #title{
-    background-color: #D6E4E5;
+    background-color: #E8DFD6;
 }
 
 
@@ -49,11 +48,11 @@ p{
     font-family: "Righteous";
     font-size: 2.5rem;
     font-weight: bold;
-    color:#EB6440;
+    color:#BF5A92;
 }
 
 .navbar-brand:hover{
-    color: #497174;
+    color: #141E59;
 }
 
 .nav-item{
@@ -63,11 +62,11 @@ p{
 .nav-link{
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    color: #EB6440;
+    color: #BF5A92;
 }
 
 .nav-link:hover{
-    color: #497174;
+    color: #141E59;
 }
 
 
@@ -78,7 +77,7 @@ p{
 @media (max-width:1000px) {
 
     .title-button{
-        background-color: #D6E4E5;
+        background-color: #E8DFD6;
         font-family: 'Poppins', sans-serif;
         font-weight: 600;
         color: #EFF5F5;
@@ -94,21 +93,21 @@ p{
     }
 
     .title-button:hover{
-        background-color: #D6E4E5;
-        color:#EB6440;
+        background-color: #E8DFD6;
+        color:#BF5A92;
     }
 
     .card-body{
         width: 100%;
         height: 100%; 
-        background-color: #c8dedf;
+        background-color: #777A8C;
         padding: 50px 30px;
     }
 
     .card-body-about{
     width: 1050px;
         height: 100%; 
-        background-color: #D6E4E5;
+        background-color: #777A8C;
         padding: 50px 30px;
     }
     
@@ -120,7 +119,7 @@ p{
 
 
     .title-button{
-        background-color: #D6E4E5;
+        background-color: #E8DFD6;
         font-family: 'Poppins', sans-serif;
         font-weight: 600;
         color: #EFF5F5;
@@ -129,8 +128,8 @@ p{
     }
     
     .title-button:hover{
-        background-color: #D6E4E5;
-        color:#EB6440;
+        background-color: #E8DFD6;
+        color:#BF5A92;
     }
 
     h1{
@@ -140,14 +139,14 @@ p{
     .card-body{
         width: 1050px;
         height: 100%; 
-        background-color: #c8dedf;
+        background-color: #777A8C;
         padding: 50px 30px;
     }
     
     .card-body-about{
         width: 1000px;
         height: 100%; 
-        background-color: #D6E4E5;
+        background-color: #777A8C;
         padding: 50px 30px;
         text-align: left;
         margin-left: 210px;
@@ -172,18 +171,18 @@ p{
 
 #footer{
     text-align: center;
-    background-color: white;
+    background-color: #E8DFD6;
     padding: 100px 0px 10px;
 }
 
 .footer-icon-margin{ 
     font-size: 25px;
     margin: 10px;
-    color: #497174;
+    color: #141E59;
 }
 
 .footer-icon-margin:hover{
-  color:#D6E4E5;
+  color:#777A8C;
 }
 
 
@@ -198,12 +197,12 @@ p{
 #about-us{
     padding:100px 30px;
     text-align: center;
-    background-color: #497174;
+    background-color: #141E59;
 }
 
 
 .about-button{
-    background-color: #EB6440;
+    background-color: #BF5A92;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: #EFF5F5;
@@ -211,8 +210,8 @@ p{
 }
 
 .about-button:hover{
-    background-color: #D6E4E5;
-    color:#497174 ;
+    background-color: #777A8C;
+    color:#141E59 ;
 }
 
 
@@ -224,12 +223,12 @@ p{
 .card-images{
     width: 250px;
     height: 150px;
-    border:solid 1px #EB6440;
+    border:solid 3px #BF5A92;
     border-radius: 20px;
 }
 
 .label{
     font-family: 'Sofia Sans Condensed', sans-serif;
     font-size: 25px;
-    color: #497174;
+    color: #141E59;
 }
